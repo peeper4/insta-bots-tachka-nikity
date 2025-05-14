@@ -1,5 +1,33 @@
 /* header Roma */
-
+.logo{
+    
+    background-color: antiquewhite;
+    width: 240px;
+    height: 70px;
+    color: aqua;
+    margin-top: 30px;
+    font-size: 30px;
+   
+}
+.navbar{
+    background-color: antiquewhite;
+    margin-top: 30px;
+    font-size: 25px;
+    width: 600px;
+    height: 70px;
+    gap: 30px;
+}
+.header{
+justify-content: space-between;
+    display: flex;
+}
+.login{
+    background-color: antiquewhite;
+    font-size: 25px;
+    width: 250px;
+    height: 70px;
+    margin-top: 20px;
+}
 /* promo Андрей 1 */
 
 /* advantages */
