@@ -1,7 +1,29 @@
 /* header Roma */
 
 /* promo Андрей 1 */
+.hightlevl{
+    width: 628px;
+    height: 210px;
+    font-size: 56px ;
 
+}
+.promo{
+    background: #cf84e8;
+background: radial-gradient(ellipse at bottom left, #948dff 0%, #f7f7ff 40%, #ffffff 100%);
+width: 1392px;
+height: 720px;
+
+}
+.email{
+    width: 465px;
+    height: 64px;
+    border-radius: 16px;
+}
+.inputemail{
+    width: 465px;
+    height: 64px;
+    border-radius: 16px;
+}
 /* advantages */
 
 /* how we work */
