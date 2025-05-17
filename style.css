@@ -30,6 +30,7 @@
 p{
     margin: 0;
 }
+
 .footer-block{
     background-color: #4754EB;
     width: 1440px;
@@ -39,28 +40,24 @@ p{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: auto;   
 }
 
 .footer-text-left{
-    color: #FFFFFF;
-    padding-top: 25px;
+    color: #FFFFFF; 
     padding-left: 25px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
+    padding-bottom: 15px;
 }
 
 .footer-text-left2{
     color: hsl(0, 0%, 68%); 
-    padding-left: 10px;
+    padding-left: 25px;
     margin-bottom: 10px;
 }
 
-.footer-text-left3{
-    color: hsl(0, 0%, 68%); 
-    padding-left: 25px;
-}
-
 .footer-text-right{
-    margin-top: -20px;
+    padding-bottom: 5px;
     color: #FFFFFF;
     margin-right: 10px;
 }
