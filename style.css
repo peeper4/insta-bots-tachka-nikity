@@ -15,11 +15,28 @@
 width: 1393px;
 height: 640px;
 background-color: rgb(255, 255, 255);
+display: flex;
+
+
 }
 .kortinkA{
     width: 628px;
     height: 640px;
 
+}
+.ppp{
+    width: 456px;
+    height: 64px;
+    background-color: #F2F2F2;
+    border-radius: 16px;
+    border: none;
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -300px;
+}
+.net{
+    font-size: 56px;
+    
 }
 /* FrequentlyAskedQuestions */
 
