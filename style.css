@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Visuelt";
+    src:
+        url("VisueltPro-Regular.ttf ")
+}
+* {
+    font-family: "Visuelt";
+
+}
+
 /* header Roma */
 .logo{
     
@@ -72,3 +82,37 @@ margin-top: 10px;
 /* Connect */
 
 /* footer vanya */
+p{
+    margin: 0;
+}
+
+.footer-block{
+    background-color: #4754EB;
+    width: 1440px;
+    height: 120px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;   
+}
+
+.footer-text-left{
+    color: #FFFFFF; 
+    padding-left: 25px;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+
+.footer-text-left2{
+    color: hsl(0, 0%, 68%); 
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+.footer-text-right{
+    padding-bottom: 5px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
