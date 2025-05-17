@@ -9,6 +9,40 @@
 /* tarify Andrey 2 */
 
 /* rates Тимур */
+.MEGAKOT{
+width: 1392px;
+height: 800px;
+background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
+}
+.kot{
+    width: 628px;
+    height: 240px;
+    background-color: rgb(119, 119, 119);
+    border-radius: 15px;
+}
+.glavniykot1{
+    gap: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.glavniykot2{
+ display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.krugli{
+    border-radius: 50%;
+    background-color: blue;
+    width: 64px;
+    height: 64px;
+}
+.foto{
+border-radius: 50%;
+}
+.foto2{
+     border-radius: 50%;
+}
 
 /* sale Олександр верни гроші */
 
