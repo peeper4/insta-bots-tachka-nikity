@@ -1,6 +1,10 @@
 /* header Roma */
 
 /* promo Андрей 1 */
+body{
+    margin: 0;
+} 
+
 .hightlevl{
     width: 628px;
     height: 210px;
@@ -10,19 +14,55 @@
 .promo{
     background: #cf84e8;
 background: radial-gradient(ellipse at bottom left, #948dff 0%, #f7f7ff 40%, #ffffff 100%);
-width: 1392px;
+max-width: 1440px;
 height: 720px;
+margin: auto;
 
 }
 .email{
     width: 465px;
     height: 64px;
     border-radius: 16px;
+    position: relative;
 }
 .inputemail{
     width: 465px;
     height: 64px;
     border-radius: 16px;
+    background-color: rgba(255,255,255,0.5);
+    border: none;
+
+}
+.send{
+    color: #4754eb;
+    border-radius: 16px;
+    width: 143px;
+    height: 48px;
+    background-color: #ffffff;
+    border: none;
+}
+.button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    top: 8px;
+}
+.obradotka{
+color: #808080;
+
+}
+.persdan{
+    color: #4754eb;
+    
+}
+.glavobrabotka{
+width: 354px;
+height: 32px;
+font-size: 12px;
+padding: 0;
+}
+.listdal{
+    margin-top: auto;
 }
 /* advantages */
 
