@@ -74,41 +74,59 @@ margin-top: 10px;
 /* tarify Andrey 2 */
 
 /* rates Тимур */
-.MEGAKOT{
+.mainblock{
 width: 1392px;
 height: 800px;
 background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
 }
-.kot{
+.starcatblock{
     width: 628px;
     height: 240px;
     background-color: rgb(119, 119, 119);
     border-radius: 15px;
+    display: flex;
+    text-wrap: nowrap;
 }
-.glavniykot1{
+.secondaryblock1{
     gap: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.glavniykot2{
+.secondaryblock2{
  display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.krugli{
+.catpfp{
     border-radius: 50%;
     background-color: blue;
     width: 64px;
     height: 64px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
 }
-.foto{
+.catphoto{
 border-radius: 50%;
+width: 64px;
+    height: 64px;
 }
-.foto2{
+.catphoto2{
      border-radius: 50%;
+     width: 64px;
+    height: 64px;
 }
-
+.catphoto3{
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+}
+.catphoto4{
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+}
 /* sale Олександр верни гроші */
 
 /* FrequentlyAskedQuestions */
