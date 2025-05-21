@@ -3,12 +3,29 @@
     src:
         url("VisueltPro-Regular.ttf ")
 }
+
 * {
     font-family: "Visuelt";
-
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
 }
 
+
 /* header Roma */
+.navbar > a {
+    color: #808080;
+    transition: color 0.4s linear;
+}
+.navbar > a:visited {
+    color: #808080;
+    transition: color 0.4s linear;
+}
+.navbar > a:hover {
+    color: #885fef;
+    transition: color 0.2s linear;
+}
 .logo{
     
     background-color: rgb(255, 255, 255);
