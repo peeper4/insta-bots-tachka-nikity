@@ -203,7 +203,17 @@ border-radius: 50%;
 /* FrequentlyAskedQuestions */
 
 /* Connect */
-
+.speak{
+    width: 465px;
+    height: 96px;
+    font-size: 18px;
+    color: #808080;
+    
+}
+.conect{
+    width: 1440px;
+    height: 728px;
+}
 /* footer vanya */
 p{
     margin: 0;
