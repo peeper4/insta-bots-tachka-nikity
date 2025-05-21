@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Visuelt";
+    src:
+        url("VisueltPro-Regular.ttf ")
+}
+* {
+    font-family: "Visuelt";
+
+}
+
 /* header Roma */
 .logo{
     
@@ -64,6 +74,40 @@ margin-top: 10px;
 /* tarify Andrey 2 */
 
 /* rates Тимур */
+.MEGAKOT{
+width: 1392px;
+height: 800px;
+background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
+}
+.kot{
+    width: 628px;
+    height: 240px;
+    background-color: rgb(119, 119, 119);
+    border-radius: 15px;
+}
+.glavniykot1{
+    gap: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.glavniykot2{
+ display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.krugli{
+    border-radius: 50%;
+    background-color: blue;
+    width: 64px;
+    height: 64px;
+}
+.foto{
+border-radius: 50%;
+}
+.foto2{
+     border-radius: 50%;
+}
 
 /* sale Олександр верни гроші */
 
@@ -72,3 +116,37 @@ margin-top: 10px;
 /* Connect */
 
 /* footer vanya */
+p{
+    margin: 0;
+}
+
+.footer-block{
+    background-color: #4754EB;
+    width: 1440px;
+    height: 120px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;   
+}
+
+.footer-text-left{
+    color: #FFFFFF; 
+    padding-left: 25px;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+
+.footer-text-left2{
+    color: hsl(0, 0%, 68%); 
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+.footer-text-right{
+    padding-bottom: 5px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
