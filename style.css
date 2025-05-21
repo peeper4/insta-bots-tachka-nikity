@@ -157,7 +157,30 @@ height: 32px;
     height: 302px; 
 } */
 /* advantages */
+.advan-block{
+    background-color: rgb(255, 255, 255);
+    width: 1440px;
+    height: 250px;
+    display: flex;
+    gap: 100px;
+    margin: auto;
+}
 
+.advantoptext{
+    margin-left: 250px;
+}
+
+.advaninside-block1{
+    width: 400px;
+    margin-left: 15px;
+    
+}
+
+.advaninsideblock-text1{
+    margin-top: 30px;
+    font-size: large;
+    color: #808080;
+}
 /* how we work */
 
 /* tarify Andrey 2 */
