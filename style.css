@@ -4,6 +4,9 @@
 body{
     margin: 0;
 } 
+.text{
+    padding: 56px;
+}
 
 .hightlevl{
     width: 628px;
@@ -15,8 +18,9 @@ body{
     background: #cf84e8;
 background: radial-gradient(ellipse at bottom left, #948dff 0%, #f7f7ff 40%, #ffffff 100%);
 max-width: 1440px;
-height: 720px;
+height: 850px;
 margin: auto;
+display: flex;
 
 }
 .email{
@@ -62,8 +66,31 @@ font-size: 12px;
 padding: 0;
 }
 .listdal{
-    margin-top: auto;
+    margin-top: 333px;
+    display: flex;
+    gap: 8px;
+    width: 165px;
+    height: 32px;
+    align-items: center;
+    
 }
+.Scroll{
+    width: 133px;
+    height: 22px;
+    font-size: 16px;
+}
+.mouse{
+width: 24px;
+height: 32px;
+}
+/* .ellipsewhite{
+    width: 465px;
+    height: 465px;
+}
+.ellipseblue{
+    width: 302px;
+    height: 302px; 
+} */
 /* advantages */
 
 /* how we work */
