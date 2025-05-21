@@ -3,14 +3,15 @@
     src:
         url("VisueltPro-Regular.ttf ")
 }
+
 * {
     font-family: "Visuelt";
 
 }
 
 /* header Roma */
-.logo{
-    
+.logo {
+
     background-color: rgb(255, 255, 255);
     width: 270px;
     height: 70px;
@@ -19,41 +20,46 @@
     font-size: 25px;
     display: flex;
     justify-content: center;
-   
+
 }
-.navbar{
+
+.navbar {
     background-color: rgb(255, 255, 255);
     margin-top: 30px;
     font-size: 22px;
     width: 650px;
     height: 70px;
     gap: 30px;
-     display: flex;
-     justify-content: space-between;
-     color: gray;
+    display: flex;
+    justify-content: space-between;
+    color: gray;
 }
-.header{
-justify-content: space-between;
+
+.header {
+    justify-content: space-between;
     display: flex;
 }
-.login{
+
+.login {
     background-color: rgb(255, 255, 255);
     font-size: 25px;
     width: 350px;
     height: 70px;
-margin-top: 10px;
+    margin-top: 10px;
     justify-content: space-evenly;
     display: flex;
     align-items: center;
 }
 
-.En{
+.En {
     color: blue;
 }
-.Ru{
-    color:gray
+
+.Ru {
+    color: gray
 }
-.reg{
+
+.reg {
     width: 200px;
     height: 50px;
     background-color: rgb(74, 74, 255);
@@ -65,48 +71,106 @@ margin-top: 10px;
 
 
 }
+
 /* promo Андрей 1 */
 
 /* advantages */
 
 /* how we work */
+.howework {
+    width: 1392px;
+    height: 800px;
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+
+    box-shadow: 0 4px 10px rgba(64, 11, 148, 0.3);
+    display: flex;
+    padding: 80px 40px;
+    background: linear-gradient(to right, #ffdcec, #e4e9ff);
+    /* Плавный градиент */
+    margin: auto
+}
+
+.hwwLeft {
+    display: flex;
+    font-size: 35px;
+    width: 720px;
+    height: 800px;
+
+
+
+}
+
+.Text {
+    color: black;
+}
+
+.photo {
+    width: 540px;
+    height: 540px;
+    border-radius: 1000px;
+    background-color: #ffffff;
+    background-image: url(Saly-24.png);
+}
+
+.HwwRight {
+    width: 720px;
+    ;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
+
+.atext {
+
+    color: blue;
+    
+}
 
 /* tarify Andrey 2 */
 
 /* rates Тимур */
-.MEGAKOT{
-width: 1392px;
-height: 800px;
-background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
+.MEGAKOT {
+    width: 1392px;
+    height: 800px;
+    background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);
 }
-.kot{
+
+.kot {
     width: 628px;
     height: 240px;
     background-color: rgb(119, 119, 119);
     border-radius: 15px;
 }
-.glavniykot1{
+
+.glavniykot1 {
     gap: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.glavniykot2{
- display: flex;
+
+.glavniykot2 {
+    display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.krugli{
+
+.krugli {
     border-radius: 50%;
     background-color: blue;
     width: 64px;
     height: 64px;
 }
-.foto{
-border-radius: 50%;
+
+.foto {
+    border-radius: 50%;
 }
-.foto2{
-     border-radius: 50%;
+
+.foto2 {
+    border-radius: 50%;
 }
 
 /* sale Олександр верни гроші */
@@ -116,11 +180,11 @@ border-radius: 50%;
 /* Connect */
 
 /* footer vanya */
-p{
+p {
     margin: 0;
 }
 
-.footer-block{
+.footer-block {
     background-color: #4754EB;
     width: 1440px;
     height: 120px;
@@ -129,23 +193,23 @@ p{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: auto;   
+    margin: auto;
 }
 
-.footer-text-left{
-    color: #FFFFFF; 
+.footer-text-left {
+    color: #FFFFFF;
     padding-left: 25px;
     margin-bottom: 0;
     padding-bottom: 15px;
 }
 
-.footer-text-left2{
-    color: hsl(0, 0%, 68%); 
+.footer-text-left2 {
+    color: hsl(0, 0%, 68%);
     padding-left: 25px;
     margin-bottom: 10px;
 }
 
-.footer-text-right{
+.footer-text-right {
     padding-bottom: 5px;
     color: #FFFFFF;
     margin-right: 10px;
