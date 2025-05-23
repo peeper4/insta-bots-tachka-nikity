@@ -84,6 +84,8 @@
     padding: 20px;
     color: white;
     font-size: 20px;
+    justify-content: space-evenly;
+    
 
     box-shadow: 0 4px 10px rgba(64, 11, 148, 0.3);
     display: flex;
@@ -91,6 +93,8 @@
     background: linear-gradient(to right, #ffdcec, #e4e9ff);
     /* Плавный градиент */
     margin: auto
+    
+    
 }
 
 .hwwLeft {
@@ -123,17 +127,33 @@
     justify-content: center; }
     .sagolovok{
         color: black;
-        fone: 80px;
+        font-size: 50px;
+        align-items: center;
+        
     }
-
- 
+.podtext{
+    color: blue;
+    font-size: 25px;
+}
+ .Glavtext{
+    font-size: 20px;
+    color: gray;
+ }
 
 .atext{
 
     color: blue;
     
+    
 }
-
+.Text1{
+    margin-top: 90px;
+}
+.Booking{
+     background-color: blue;
+     height: 60px;
+     width: 150px;
+}
 /* tarify Andrey 2 */
 
 /* rates Тимур */
