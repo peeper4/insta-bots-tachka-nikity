@@ -203,7 +203,7 @@ height: 32px;
 /* tarify Andrey 2 */
 
 /* rates Тимур */
-.mainblock{
+.maincatblock{
 width: 1392px;
 height: 800px;
 background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
@@ -227,7 +227,7 @@ background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);
     justify-content: space-around;
     align-items: center;
 }
-.catpfp{
+.catinfo{
     border-radius: 50%;
     background-color: blue;
     width: 64px;
@@ -255,6 +255,27 @@ width: 64px;
     border-radius: 50%;
     width: 64px;
     height: 64px;
+}
+.serega{
+    margin-left: 23px;
+}
+.saimon{
+    margin-left: 23px;
+}
+.olezhka{
+    margin-left: 23px;
+}
+.inokentiy{
+    margin-left: 23px;
+}
+.startextblock{
+    padding: 2px;
+    height: 144px;
+    background-color: rgb(0, 191, 255);
+}
+.goverticalplz{
+        width: 628px;
+    text-wrap: wrap;
 }
 /* sale Олександр верни гроші */
 
