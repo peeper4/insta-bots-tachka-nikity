@@ -214,6 +214,25 @@ border-radius: 50%;
     width: 1440px;
     height: 728px;
 }
+.asks{
+    width: 465px;
+    height: 56px;
+
+}
+
+.whatdou{
+    width: 465px;
+    height: 80px;
+}
+.aaaaa{
+width: 238px;
+height: 32px;
+}
+.sendd{
+    display: flex;
+}
+
+
 /* footer vanya */
 p{
     margin: 0;
