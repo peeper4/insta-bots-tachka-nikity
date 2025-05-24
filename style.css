@@ -112,13 +112,31 @@
 }
 
 .photo {
-    width: 540px;
-    height: 540px;
-    border-radius: 1000px;
-    background-color: #ffffff;
-    background-image: url(Saly-24.png);
+    width: 628px;
+    height: 639px;
+    
+   
+    position: relative;
+    
 }
-
+.krug1{
+     width: 302px;
+    height: 302px;
+    background-color: rgb(255, 66, 230);
+    border-radius: 50%;
+    position: absolute;
+    top: 257px;
+    left: 0;
+}
+.krug2{
+        width: 540px;
+    height: 540px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
 .HwwRight {
     width: 720px;
     ;
@@ -151,8 +169,13 @@
 }
 .Booking{
      background-color: blue;
-     height: 60px;
-     width: 150px;
+     height: 40px;
+     width: 250px;
+     margin-top: 70px;
+     border-radius: 20px;
+     text-align: center;
+     padding-top: 15px;
+     
 }
 /* tarify Andrey 2 */
 
