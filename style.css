@@ -199,7 +199,106 @@ height: 32px;
     color: #808080;
 }
 /* how we work */
+.howework {
+    width: 1392px;
+    height: 800px;
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    justify-content: space-evenly;
+    
 
+    box-shadow: 0 4px 10px rgba(64, 11, 148, 0.3);
+    display: flex;
+    padding: 80px 40px;
+    background: linear-gradient(to right, #ffdcec, #e4e9ff);
+    /* Плавный градиент */
+    margin: auto
+    
+    
+}
+
+.hwwLeft {
+    display: flex;
+    font-size: 35px;
+    width: 720px;
+    height: 800px;
+
+
+
+}
+
+.Text {
+    color: black;
+}
+
+.photo {
+    width: 628px;
+    height: 639px;
+    
+   
+    position: relative;
+    
+}
+.krug1{
+     width: 302px;
+    height: 302px;
+    background-color: rgb(255, 66, 230);
+    border-radius: 50%;
+    position: absolute;
+    top: 257px;
+    left: 0;
+}
+.krug2{
+        width: 540px;
+    height: 540px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
+.HwwRight {
+    width: 720px;
+    ;
+    height: 800px;
+    display: flex;
+    justify-content: center; }
+    .sagolovok{
+        color: black;
+        font-size: 50px;
+        align-items: center;
+        
+    }
+.podtext{
+    color: blue;
+    font-size: 25px;
+}
+ .Glavtext{
+    font-size: 20px;
+    color: gray;
+ }
+
+.atext{
+
+    color: blue;
+    
+    
+}
+.Text1{
+    margin-top: 90px;
+}
+.Booking{
+     background-color: blue;
+     height: 40px;
+     width: 250px;
+     margin-top: 70px;
+     border-radius: 20px;
+     text-align: center;
+     padding-top: 15px;
+     
+}
 /* tarify Andrey 2 */
 
 /* rates Тимур */
@@ -277,7 +376,7 @@ width: 64px;
         width: 628px;
     text-wrap: wrap;
 }
-/* sale Олександр верни гроші */
+/* sale Олександр */
 
 /* FrequentlyAskedQuestions */
 
