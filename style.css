@@ -168,12 +168,32 @@ height: 32px;
 .ellipsewhite{
     width: 465px;
     height: 465px;
+    
 }
 .ellipseblue{
     width: 302px;
     height: 302px; 
+    
 }
 /* advantages */
+.womenwitharoket{
+    position: relative;
+    width: 628px;
+    height: 720px;
+}
+.firstkrug{
+position: absolute;
+right: 0;
+top: 80px;
+}
+.secondkrug{
+    position: absolute;
+    top: 280px;
+}
+.womanfoto{
+    z-index: 3;
+    position: absolute;
+}
 .advan-block{
     background-color: rgb(255, 255, 255);
     width: 1440px;
