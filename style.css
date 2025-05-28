@@ -200,7 +200,30 @@ height: 32px;
 }
 /* how we work */
 
-/* tarify Andrey 2 */
+/* tarify vakavo*/
+
+.blocktarify{
+    width: 1400px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    gap: 50px;
+    margin: auto;
+}
+
+.blockinsidetarify{
+    height: 500px;
+    width: 800px;
+    background: #ffffff;
+background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(217, 217, 217, 1) 100%);
+margin: auto;
+}
+
+.texttarify{
+    font-size: x-large;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
 
 /* rates Тимур */
 .maincatblock{
