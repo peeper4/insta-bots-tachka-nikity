@@ -208,11 +208,13 @@ border-radius: 50%;
     height: 96px;
     font-size: 18px;
     color: #808080;
+    padding: 40px;
     
 }
 .conect{
     width: 1440px;
     height: 728px;
+    display: flex;
 }
 .asks{
     width: 465px;
@@ -228,11 +230,42 @@ border-radius: 50%;
 width: 238px;
 height: 32px;
 }
-.sendd{
+.sandd{
     display: flex;
+    justify-content: center;
+    gap: 16px;
+    align-items: center;
+    padding: 40px;
 }
 
+.sendanapplication{
+    width: 203px;
+    height: 56px;
+    background-color: #4754EB;
+    color: white;
+    border-radius: 16px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 40px;
+}
+.press{
+color: #808080;
+}
+.personaldata{
+    color: #4754EB;
+}
+.chelwithglasses{
+    width: 489px;
+    height: 489px;
+    gap: 163px;
 
+}
+.conection{
+    
+}
 /* footer vanya */
 p{
     margin: 0;
