@@ -411,7 +411,71 @@ width: 64px;
 /* FrequentlyAskedQuestions */
 
 /* Connect */
+.speak{
+    width: 465px;
+    height: 96px;
+    font-size: 18px;
+    color: #808080;
+    padding: 40px;
+    
+}
+.conect{
+    width: 1440px;
+    display: flex;
+}
+.asks{
+    width: 465px;
+    height: 56px;
 
+}
+
+.whatdou{
+    width: 465px;
+    height: 80px;
+}
+.aaaaa{
+width: 238px;
+height: 32px;
+}
+.sandd{
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    align-items: center;
+    padding: 40px;
+}
+
+.sendanapplication{
+    width: 203px;
+    height: 56px;
+    background-color: #4754EB;
+    color: white;
+    border-radius: 16px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 40px;
+}
+.press{
+color: #808080;
+}
+.personaldata{
+    color: #4754EB;
+}
+.chelwithglasses{
+    width: 489px;
+    height: 489px;
+    gap: 163px;
+
+}
+.conection{
+    
+}
+.man{
+    padding: 140px;
+}
 /* footer vanya */
 p{
     margin: 0;
