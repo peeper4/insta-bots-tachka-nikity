@@ -22,7 +22,7 @@ display: flex;
 .kortinkA{
     width: 628px;
     height: 640px;
-
+    
 }
 .ppp{
     width: 456px;
@@ -37,6 +37,10 @@ display: flex;
 .net{
     font-size: 56px;
     
+}
+.text{
+    text-align: right;
+    width: 100px;
 }
 /* FrequentlyAskedQuestions */
 
