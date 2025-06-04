@@ -324,9 +324,10 @@ top: 80px;
 /* rates Тимур */
 .maincatblock{
 width: 1392px;
-height: 800px;
 background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
 margin: auto;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 .starcatblock{
     width: 628px;
