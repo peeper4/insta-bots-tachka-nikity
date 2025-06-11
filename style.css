@@ -323,7 +323,7 @@ top: 80px;
 
 /* rates Тимур */
 .mainreviewsblock{
-width: 1392px;
+max-width: 1392px;
 background: linear-gradient(to top left, #f0e8ff, #ffeefd, #ffffff);    
 margin: auto;
 margin-top: 20px;
@@ -331,7 +331,6 @@ margin-bottom: 20px;
 }
 .starcatblock{
     width: 628px;
-    height: 240px;
     background-color: rgb(255, 255, 255);
     border-radius: 15px;
     display: flex;
