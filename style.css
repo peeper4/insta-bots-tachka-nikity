@@ -335,17 +335,19 @@ margin-bottom: 20px;
     border-radius: 15px;
     display: flex;
     text-wrap: nowrap;
+
 }
+
 .secondaryblock1{
-    gap: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .secondaryblock2{
- display: flex;
+    display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 20px;
 }
 .catinfo{
     border-radius: 50%;
@@ -390,7 +392,7 @@ width: 64px;
 }
 .startextblock{
     padding: 2px;
-    height: 144px;
+    
     background-color: rgb(255, 255, 255);
     padding-left: 24px;
 
